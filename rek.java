@@ -1,14 +1,9 @@
 package test3;
-
+//git@github.com:n1ko12333/test3.git
 public class rek {
 
 	public int fibonacciRec(int n){
 		
-		if(i<=0) 
-			return 0;
-				else if(i==1)
-			return 1;
-					else	
 	}	
 	
 	public long lukasArr(int n){
